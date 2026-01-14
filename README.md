@@ -243,5 +243,3 @@ It demonstrates:
 The system satisfies all selected requirements of the **Web GIS Final Assignment**.
 
 ```
-Sadece söyle 🌱
-```
